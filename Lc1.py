@@ -42,8 +42,8 @@ dist_coeff = np.zeros((5,1))
 # GPS TARGET LOCATION
 ############################################
 
-TARGET_LAT = 16.565681
-TARGET_LON = 80.521784
+TARGET_LAT = 16.565772
+TARGET_LON = 80.521778
 target_alt = 5
 
 ############################################
